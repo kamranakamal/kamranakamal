@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Deep Learning, Natural Language Processing and GEN AI<br>👯 I’m looking to collaborate on Computer Vision Projects<br>🤝 I’m looking for help with Machine Learning Operations<br>🌱 I’m currently learning Tensorflow  and Gen AI<br>💬 Ask me about Machine Learning, Deep Learning, Python frameworks<br>
+🔭 I’m currently working on Deep Learning, Natural Language Processing and GEN AI<br>👯 I’m looking to collaborate on Computer Vision Projects<br>🤝 I’m looking for help with Machine Learning Operations<br>🌱 I’m currently learning NLP and Gen AI<br>💬 Ask me about Machine Learning, Deep Learning, Python frameworks<br>
 
 
 ## 🌐 Socials:
